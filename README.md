@@ -5,7 +5,7 @@ OOP Project
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-- [Firebase Database Link:](https://console.firebase.google.com/project/hospital-inventory-app/firestore/data/~2Fmedicines~2F101)
+- [Firebase Database Link](https://console.firebase.google.com/project/hospital-inventory-app/firestore/data/~2Fmedicines~2F101)
 <!-- A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
